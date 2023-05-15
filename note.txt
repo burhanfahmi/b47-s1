@@ -1,0 +1,3 @@
+div: untuk mempermudah melakukan grouping agar mempermudah kita melakukan styling 
+margin: jarak luar
+padding : jarak dalam
